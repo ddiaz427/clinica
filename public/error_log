@@ -1,0 +1,9 @@
+[17-Mar-2016 12:04:28 UTC] PHP Fatal error:  Class 'App\Models\Modulo' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 924
+[17-Mar-2016 12:12:30 UTC] PHP Fatal error:  Class 'App\models\Perfil' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 765
+[17-Mar-2016 12:25:20 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:33:59 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:35:32 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:35:34 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:35:37 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:35:39 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
+[17-Mar-2016 12:36:45 UTC] PHP Fatal error:  Class 'App\Models\Tarifaacceso' not found in /home/tarifasdeluz/public_html/crmtarifasdeluz/app/Http/Controllers/ComparadorController.php on line 41
